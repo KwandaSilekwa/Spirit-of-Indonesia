@@ -1,4 +1,8 @@
 # Spirit-of-Indonesia
 A spirit of indonesia PHP page from artinvoyage.com/spiritofindonesia
 
-To see this a live deploy of this project visit, https://spirit-of-indonesia.netlify.app/#
+# Preview
+To see this a live deploy of this project
+
+  * [[SOI] Spirit Of Indonesia](https://spirit-of-indonesia.netlify.app/#)
+
