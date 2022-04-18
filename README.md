@@ -1,5 +1,5 @@
 # Spirit-of-Indonesia
-A spirit of indonesia PHP page from artinvoyage.com/spiritofindonesia
+A remake of the spirit of indonesia PHP page from artinvoyage.com/spiritofindonesia
 ![Spirit-of-Indonesia screenshot](https://i.ibb.co/YhkCtSF/soi.png)
 
 # Preview
